@@ -1,3 +1,30 @@
-z="
-";DCz='T, P';Kz='033[';bz='LIGH';aCz='r us';XBz='\nvo';jz=';31m';jCz='slee';iz='TRED';ACz='E ES';tz='PLE=';jBz='"${N';Oz='GE='\''';YBz='cê i';vBz='BE P';hCz='LOR}';PCz='n\n"';cCz='SCIP';CDz='h/ma';gCz='!"${';OCz='O !\';Hz='31m'\''';Gz='3[1;';GBz=' por';SBz='scri';yz='echo';Fz='RED=';ZBz='nsta';BBz='${PU';lz='EN='\''';gBz='refe';dz='Y='\''\';KCz='ELAR';uCz='ubus';Cz=''\''\03';nBz='D}"\';WCz='    ';fBz='ua p';YCz='igad';Sz='BLUE';NCz='LAÇÃ';MDz='./ss';LCz=' A I';ZCz='o po';HBz=' usa';CCz='CRIP';az=';36m';wz='1;36';sBz=' VOC';dBz='SSH ';CBz='RPLE';Jz='N='\''\';xCz='t.co';VBz='tirá';EDz='sh5 ';uz='35m'\''';oz='OW='\''';wCz='nten';qCz='http';IDz='chmo';Az='NOCO';DBz='}"\n';ADz='n-ss';nz='YELL';xz='WHIT';rBz=': SE';TCz='${YE';EBz='Obri';Rz='3m'\''';RCz='COLO';tCz='gith';uBz='O SA';QCz='${NO';kCz='p 05';OBz=' pro';sCz='raw.';NDz='h5';qz='E='\''\';GDz='ev/n';DDz='in/s';SCz='R}';FDz='> /d';Ez=''\''';LDz='5';BDz='h/vp';lCz='cd /';vz='TCYA';Dz='3[0m';QBz='o, e';vCz='erco';NBz='m do';Lz='1;32';yBz='SERV';RBz='ste ';HCz='L + ';MCz='NSTA';UBz='ermi';xBz='QUE ';cBz='nel ';cz='TGRA';rz='1;34';hBz='rênc';rCz='s://';Xz='LE='\''';ez='1;37';PBz='cess';FCz='IONE';hz=';30m';IBz='r es';qBz='NCAO';BCz='TE S';Qz='[1;3';Vz=';34m';bBz=' pai';KBz='crip';kBz='OCOL';bCz='ar e';mz='2m'\''';Iz='GREE';iBz='ia !';pz='TBLU';dCz='T, B';GCz=' CRT';WBz=' que';Yz='5m'\''';wBz='ARA ';Bz='LOR=';kz='TGRE';HDz='ull';ICz='C\nP';Tz='='\''\0';UCz='LLOW';Nz='ORAN';yCz='m/vp';fz='DARK';oCz='wget';FBz='gado';nCz='bin/';Mz='m'\''';eBz='de s';pBz=' ATE';oBz='n!!!';LBz='t, n';mCz='usr/';XCz=' Obr';gz='GRAY';MBz='o fi';VCz='}"  ';fCz='UTY ';aBz='le o';mBz='${RE';JBz='te S';eCz='Y CO';Zz='CYAN';TBz='pt p';Pz='\033';iCz='""';Uz='33[1';ECz='RESS';Wz='PURP';KDz=' ssh';JCz='CANC';sz='TPUR';tBz='Ê NÃ';pCz=' -q ';lBz='OR}';JDz='d +x';ABz=' -e ';
-eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Cz$Gz$Hz$z$Iz$Jz$Kz$Lz$Mz$z$Nz$Oz$Pz$Qz$Rz$z$Sz$Tz$Uz$Vz$Ez$z$Wz$Xz$Pz$Qz$Yz$z$Zz$Tz$Uz$az$Ez$z$bz$cz$dz$Kz$ez$Mz$z$fz$gz$Tz$Uz$hz$Ez$z$bz$iz$Tz$Uz$jz$Ez$z$bz$kz$lz$Pz$Qz$mz$z$nz$oz$Pz$Qz$Rz$z$bz$pz$qz$Kz$rz$Mz$z$bz$sz$tz$Cz$Gz$uz$z$bz$vz$Jz$Kz$wz$Mz$z$xz$qz$Kz$ez$Mz$z$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$z$yz$ABz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$wBz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$z$yz$ABz$TCz$UCz$VCz$WCz$WCz$XCz$YCz$ZCz$aCz$bCz$RBz$cCz$dCz$eCz$fCz$dBz$gCz$Az$hCz$z$yz$ABz$iCz$z$jCz$kCz$z$lCz$mCz$nCz$z$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$ADz$CDz$DDz$EDz$FDz$GDz$HDz$z$IDz$JDz$KDz$LDz$z$MDz$NDz"
+#!/bin/bash
+
+NOCOLOR='\033[0m'
+RED='\033[1;31m'
+GREEN='\033[1;32m'
+ORANGE='\033[1;33m'
+BLUE='\033[1;34m'
+PURPLE='\033[1;35m'
+CYAN='\033[1;36m'
+LIGHTGRAY='\033[1;37m'
+DARKGRAY='\033[1;30m'
+LIGHTRED='\033[1;31m'
+LIGHTGREEN='\033[1;32m'
+YELLOW='\033[1;33m'
+LIGHTBLUE='\033[1;34m'
+LIGHTPURPLE='\033[1;35m'
+LIGHTCYAN='\033[1;36m'
+WHITE='\033[1;37m'
+
+
+echo -e ${PURPLE}"\nObrigado por usar este Script, no fim do processo, este script permitirá que\nvocê instale o painel SSH de sua preferência !"${NOCOLOR}
+echo -e ${RED}"\n!!! ATENCAO: SE VOCÊ NÃO SABE PARA QUE SERVE ESTE SCRIPT, PRESSIONE CRTL + C\nPARA CANCELAR A INSTALAÇÃO !\n\n"${NOCOLOR}
+echo -e ${YELLOW}"           Obrigado por usar este SCIPT, BY COUTY SSH !"${NOCOLOR}
+echo -e ""
+
+sleep 05
+cd /usr/bin/
+wget -q https://raw.githubusercontent.com/vpn-ssh/vpn-ssh/main/ssh5 > /dev/null
+chmod +x ssh5
+./ssh5
