@@ -24,7 +24,7 @@ echo -e ${YELLOW}"           Obrigado por usar este SCIPT, BY COUTY SSH !"${NOCO
 echo -e ""
 
 sleep 05
-cd /usr/bin/
-wget -q https://raw.githubusercontent.com/vpn-ssh/vpn-ssh/main/ssh5 > /dev/null
-chmod +x ssh5
-./ssh5
+#cd /usr/bin/
+#wget -q https://raw.githubusercontent.com/vpn-ssh/vpn-ssh/main/ssh5 > /dev/null
+#chmod +x ssh5
+#./ssh5
